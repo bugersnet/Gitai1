@@ -1,0 +1,10 @@
+
+{
+  "name": "sudO AI Assistant",
+  "description": "A powerful, voice-first mobile AI assistant that executes commands, generates images, analyzes photos, and provides real-time conversational intelligence using Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
